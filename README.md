@@ -1,5 +1,7 @@
 
-![](https://raw.githubusercontent.com/Sawshu/README.md/main/maxwell-cat.gif) <sub> Merhaba </sub>
+![](https://raw.githubusercontent.com/Sawshu/README.md/main/maxwell-cat.gif) <sub> Hello, I'am Sawshu. I 17 Years Old. I am from Türkiye and I live in Türkiye in izmir
+
+I Learning "Discord.JS" and I'm just at the beginning, You can access it by clicking on the social media links below. </sub>
 
 
 

@@ -6,4 +6,4 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Sawshu)
 
-[! [Discord Badge](https://img.shields.io/badge/-Discord-0000c8?style=flat-quare&labelColor=0000c8&logo=discord&logoColor=white&link=link)](https://discord.com/users/1106168307117215816)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0000c8?style=flat-quare&labelColor=0000c8&logo=discord&logoColor=white&link=link)](https://discord.com/users/1106168307117215816)

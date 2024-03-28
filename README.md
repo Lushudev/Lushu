@@ -1,4 +1,4 @@
-![](https://komarev.com/https://github.com/Sawshu)
+![](https://komarev.com/ghpvc/?username=sawshu)
 
 
 

@@ -2,7 +2,7 @@
 
 
 
-**Hello, I'am Keno. I 16 Years Old. I am from Türkiye and I live in Türkiye in izmir**
+**Hello, I'am Reach. I 17 Years Old. I am from Türkiye and I live in Türkiye in izmir**
 
 **I Learning "Discord.JS" and I'm just at the beginning, You can access it by clicking on the social media links below.**
 

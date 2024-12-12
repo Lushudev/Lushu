@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Sawshu/README.md/main/maxwell-cat.gif) ![](https://komarev.com/ghpvc/?username=Fourial) 
+![](https://raw.githubusercontent.com/Sawshu/README.md/main/maxwell-cat.gif) ![](https://komarev.com/ghpvc/?username=fourial&style=for-the-badge) 
 
 
 
